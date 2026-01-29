@@ -1,4 +1,5 @@
 # 🧠 SemioLLM: Evaluating Large Language Models for Diagnostic Reasoning from Unstructured Clinical Narratives in Epilepsy
+[![DOI](https://zenodo.org/badge/971867255.svg)](https://doi.org/10.5281/zenodo.18412885)
 
 ## Overview
 
