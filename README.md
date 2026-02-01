@@ -12,9 +12,9 @@ semiollm/
 ├── README.md                     # This file
 ├── LICENSE                       # License information
 ├── data_files/                   # Required data files for main figure visualizations
-│   ├── f1_dict_nature_bootstrap.json
-│   ├── mean_conf_score_bootstrap.json
-│   └── mean_dict_nature_bootstrap.json
+│   ├── fig2a_1.json
+│   ├── fig2a_2.json
+│   └── and so on
 ├── visualization/                # Code to reproduce figures from the main paper
 │   ├── fig_2_a.ipynb            # Figure 2a Seizure Onset Zone (SOZ) localization performance
 │   ├── fig_2_b.ipynb            # Figure 2b SOZ Confidence 
